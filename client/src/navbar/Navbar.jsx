@@ -1,12 +1,11 @@
 import DarkModeToggle from './DarkModeToggle';
 
-
 function Navbar() {
   return (
     <nav>
       <div className='nav-container'>
         <a href='#' className='nav-logo'>
-          Sudoku
+          Sudoku 101
         </a>
         <DarkModeToggle />
       </div>
